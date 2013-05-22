@@ -1,4 +1,4 @@
-// ConsoleApplication1.cpp : ©w¸q¥D±±¥xÀ³¥Îµ{¦¡ªº¶i¤JÂI¡C
+ï»¿// ConsoleApplication1.cpp : å®šç¾©ä¸»æ§å°æ‡‰ç”¨ç¨‹å¼çš„é€²å…¥é»ã€‚
 //
 
 #include "stdafx.h"
@@ -6,7 +6,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout << "Hello World" << endl;
+	cout << "Hello World å—¨ä¸–ç•Œ" << endl;
 	cin.get();
 	return 0;
 }
